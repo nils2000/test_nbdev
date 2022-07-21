@@ -2,11 +2,9 @@
 
 
 
-```python
-# Project name: try_out_nbdev
+#Project name: try_out_nbdev
 
-> Summary description here.
-```
+Summary description here.
 
 This file will become your README and also the index of your documentation.
 
